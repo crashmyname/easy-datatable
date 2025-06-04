@@ -1,0 +1,19 @@
+{
+    "name": "fadli-dev/datatables",
+    "description": "Library untuk menggunakan DataTable dengan mudah di PHP Native",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FadliDev\\DataTables\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fadli Azka Prayogi",
+            "email": "fadliazkaprayogi1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
